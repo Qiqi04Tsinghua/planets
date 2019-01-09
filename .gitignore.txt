@@ -2,4 +2,4 @@ nano  .gitignore
 *.dat
 results/
 
-
+!a.dat
